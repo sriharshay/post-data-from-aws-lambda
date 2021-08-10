@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "feed-importer-stack"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-ca7oy1ln9ksr"
+s3_prefix = "feed-importer-stack"
+region = "ap-south-1"
+capabilities = "CAPABILITY_IAM"
+confirm_changeset = true

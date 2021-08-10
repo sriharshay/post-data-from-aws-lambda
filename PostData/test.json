@@ -1,0 +1,18 @@
+[
+  {
+    "name": "node1",
+    "country": "us"
+  },
+  {
+    "name": "node2",
+    "country": "in"
+  },
+  {
+    "name": "node3",
+    "country": "de"
+  },
+  {
+    "name": "node4",
+    "country": "jp"
+  }
+]
